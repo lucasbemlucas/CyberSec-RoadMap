@@ -25,16 +25,6 @@ Plataforma nacional com cursos gratuitos e artigos sobre:
 
 ---
 
-### 🔹 [Universidade Livre de Ciência da Computação](https://github.com/Universidade-Livre/ciencia-da-computacao) - *GitHub*
-Repositório com cursos gratuitos de:
-- Algoritmos e Estrutura de Dados
-- Sistemas Operacionais
-- Redes de Computadores
-- Compiladores, Segurança e Criptografia
-- Trilha organizada por níveis e áreas do conhecimento
-
----
-
 ### 🔹 [FEBRABAN Tech](https://portal.febraban.org.br/noticia/4305/pt-br/)
 Iniciativa do setor bancário com foco em inovação, segurança e transformação digital.  
 Conteúdo útil para entender o panorama corporativo de segurança cibernética no Brasil.
