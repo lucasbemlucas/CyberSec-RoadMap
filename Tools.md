@@ -1,66 +1,116 @@
-# Plataformas e Laboratórios para Pentest
+# 🛡️ Plataformas e Laboratórios para Pentest
 
+Este repositório reúne **plataformas, laboratórios e recursos gratuitos** para estudo e prática em **Pentest**, **Cybersegurança**, **CTFs**, **Red Team**, **Engenharia Reversa**, e muito mais.  
+A ideia é oferecer uma curadoria de qualidade, com foco em **desenvolvimento técnico e prático**, para todos os níveis de conhecimento.
 
-## FEBRABAN 
+---
 
-https://portal.febraban.org.br/noticia/4305/pt-br/
+## 🎯 Objetivo
 
-## CURSOS E LINKS DE CIENCIA DA COMPUTAÇÃO (UNIVERSIDADE LIVRE) SEPARADOS POR TRILHA. RECOMENDO! GITHUB
-repositório - https://github.com/Universidade-Livre/ciencia-da-computacao
+Facilitar o acesso a ambientes controlados, simuladores, cursos e trilhas de aprendizado voltados à **segurança ofensiva** e **defensiva**, incentivando a prática ética e responsável da cibersegurança.
 
-## MENTE BINÁRIA - PLATAFORMA COM MUITOS CURSOS GRATUITOS... SHELL, REDES, PROGRAMAÇÃO E CYBER
+---
 
-https://www.mentebinaria.com.br/
+## 🧠 Plataformas Educacionais e Comunidades
 
-## TryHackMe
+### 🔹 [Mente Binária](https://www.mentebinaria.com.br/)
+Plataforma nacional com cursos gratuitos e artigos sobre:
+- Shell scripting
+- Engenharia reversa
+- Programação de baixo nível
+- Redes e segurança ofensiva
+- Cyber Talks e conteúdo técnico de alto nível
 
-TryHackMe é um site com trilhas, salas e máquinas virtuais para aprendizado em cyber segurança, ofensiva e defensiva.
+> Excelente ponto de partida para quem busca conteúdo em português com profundidade técnica.
 
-https://tryhackme.com
+---
 
+### 🔹 [Universidade Livre de Ciência da Computação](https://github.com/Universidade-Livre/ciencia-da-computacao) - *GitHub*
+Repositório com cursos gratuitos de:
+- Algoritmos e Estrutura de Dados
+- Sistemas Operacionais
+- Redes de Computadores
+- Compiladores, Segurança e Criptografia
+- Trilha organizada por níveis e áreas do conhecimento
 
-## HackTheBox
+---
 
-HackTheBox tem uma proposta parecida, quase idêntica ao TryHackMe, com algumas poucas diferenças entre as abordagens (vale a pena também).
+### 🔹 [FEBRABAN Tech](https://portal.febraban.org.br/noticia/4305/pt-br/)
+Iniciativa do setor bancário com foco em inovação, segurança e transformação digital.  
+Conteúdo útil para entender o panorama corporativo de segurança cibernética no Brasil.
 
-https://academy.hackthebox.com
+---
 
+## 💻 Plataformas de Pentest e Cyber Ranges
 
-## Pentester Lab
+### 🔸 [TryHackMe](https://tryhackme.com)
+Plataforma interativa com:
+- Máquinas virtuais
+- Trilha guiada por tópicos (Red Team, Blue Team, Web, Linux, etc.)
+- Certificados de conclusão
+- Laboratórios hands-on com tutoriais passo a passo
 
-Plataforma semelhante as anteriores, mas com uma interface bem mais simples e uma trilha um pouco mais direta. Você escolhe o que vai seguir...
+---
 
-https://pentesterlab.com
+### 🔸 [Hack The Box Academy](https://academy.hackthebox.com)
+Ambiente avançado com foco em:
+- Laboratórios realistas e desafiadores
+- Trilha de certificações (HTB CPTS, HTB Certified Bug Bounty Hunter)
+- Conteúdo prático e técnico
 
+---
 
-## picoCTF
+### 🔸 [PentesterLab](https://pentesterlab.com)
+- Trilha direta, sem distrações
+- Ideal para quem já tem noções de HTTP, Web Exploits, e quer ir direto ao ponto
+- Enfoque em análise de código, exploits e vulnerabilidades reais
 
-Mais uma, com trilhas e máquinas virtuais para os estudos.
+---
 
-https://picoctf.org/
+### 🔸 [picoCTF](https://picoctf.org/)
+CTF (Capture The Flag) interativo criado pela Carnegie Mellon University:
+- Voltado a iniciantes, com desafios progressivos
+- Laboratórios imersivos e educativos
 
+---
 
-## VulnHub
+### 🔸 [VulnHub](https://www.vulnhub.com/)
+- Biblioteca de VMs vulneráveis para prática de Pentest
+- Foco em simular ambientes reais
+- Você baixa as imagens e roda localmente no VirtualBox ou VMWare
 
-É uma plataforma focada com máquinas virtuais para pentesting. Diferente das anteriores, ela possui menos recursos de interface e acompanhamento de trilha... mas ainda assim, é muito boa!
+---
 
-https://www.vulnhub.com/
+### 🔸 [OverTheWire](https://overthewire.org/)
+Inspirado no clássico *Wargames* (1983), a proposta é aprender brincando:
+- Servidores com desafios via SSH
+- Foco em Linux, comandos de terminal e análise de sistemas
+- Labs como **Bandit**, **Narnia**, **Leviathan**, entre outros
 
+> **Importante:** leia e aceite as regras antes de iniciar!
 
-## OverTheWire
+---
 
-A proposta desse site foi inspirada no filme WARGAMES, de 1983, onde um estudante encontra o site de uma base militar enquanto buscava pelo vazamento de um jogo, numa empresa da época. 
-O conteúdo foca em comandos shell, com dicas e links para que você se desenvolva sozinho, de forma imersiva e divertida. 
+## 🎄 Bônus
 
-*ACEITE AS REGRAS, ANTES DE JOGAR*
+### 🎁 [SANS Holiday Hack Challenge](https://www.sans.org/cyber-ranges/holiday-hack-challenge/)
+Desafio anual da SANS com ambiente gamificado:
+- Ideal para aprender de forma divertida
+- Envolve lógica, OSINT, análise de pacotes, engenharia reversa, etc.
 
-https://overthewire.org/
+---
 
+## 📌 Nota de Ética
 
-# BONUS:
+> Todos os conteúdos aqui listados têm como finalidade o aprendizado e a formação ética de profissionais de segurança da informação.  
+> O uso inadequado do conhecimento pode acarretar **responsabilidade civil e criminal**.
 
-https://www.sans.org/cyber-ranges/holiday-hack-challenge/  - desafios cyber
+---
 
+## 🧾 Autor
 
+Desenvolvido por [Lucas Bellucci Almendra](https://github.com/belluccaz),  
+Desenvolvedor Full Stack e estudante de Cibersegurança.
 
-Feito por: Lucas Bellucci Almendra, desenvolvedor full stack e estudante de cyber segurança. Usem com responsabilidade
+---
+
