@@ -100,7 +100,7 @@ Desafio anual da SANS com ambiente gamificado:
 ## 🧾 Autor
 
 Desenvolvido por [Lucas B. Almendra](https://github.com/belluccaz),  
-Desenvolvedor Full Stack e estudante de Cibersegurança.
+Desenvolvedor full stack em desenvolvimento.
 
 ---
 
